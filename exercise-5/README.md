@@ -13,5 +13,5 @@ h1 is a header with a sentence say "Hello World" color:blue changes the text col
 
 # Scenario C
 - h1 ends up with the blue color
-- This is where the cascading rule comes in. The browser reads fromtop to buttom and the rule written last overwrites the previous one
+- This is where the cascading rule comes in. The browser reads from top to buttom and the rule written last overwrites the previous one
 - This demonstrate Cascading rule
